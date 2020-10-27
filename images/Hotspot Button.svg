@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Oval 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#69B6D1" offset="0%"></stop>
+            <stop stop-color="#007CC0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16.3246753,13.6753247 L20.2987013,13.6753247 C21.0302993,13.6753247 21.6233766,14.268402 21.6233766,15 C21.6233766,15.731598 21.0302993,16.3246753 20.2987013,16.3246753 L16.3246753,16.3246753 L16.3246753,20.2987013 C16.3246753,21.0302993 15.731598,21.6233766 15,21.6233766 C14.268402,21.6233766 13.6753247,21.0302993 13.6753247,20.2987013 L13.6753247,16.3246753 L9.7012987,16.3246753 C8.96970072,16.3246753 8.37662338,15.731598 8.37662338,15 C8.37662338,14.268402 8.96970072,13.6753247 9.7012987,13.6753247 L13.6753247,13.6753247 L13.6753247,9.7012987 C13.6753247,8.96970072 14.268402,8.37662338 15,8.37662338 C15.731598,8.37662338 16.3246753,8.96970072 16.3246753,9.7012987 L16.3246753,13.6753247 Z" id="path-2"></path>
+        <filter x="-52.8%" y="-37.7%" width="205.7%" height="205.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.268172554 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-2-Copy" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="url(#linearGradient-1)" cx="15" cy="15" r="15"></circle>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
